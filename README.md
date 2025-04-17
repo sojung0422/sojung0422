@@ -26,20 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 | 게임 | 🎯 무게 | 🎮 실행 / 빌드 |
 |------|--------|----------------|
-| [숫자 맞추기](#) | 0 | ▶️ [Play Now](#) / [Guess A Number Build](#) |
-| [가위바위보](#) | 0 | ▶️ [Play Now](#) / [Rock Paper Scissors Build](#) |
-| [주사위 게임](#) | 0 | ▶️ [Play Now](#) / [Dice Game Build](#) <br> *지역 사회 기억* |
-| [플래시 카드](#) | 0 | ▶️ [Play Now](#) / [Flash Cards Build](#) |
-| [퀵 드로우](#) | 1 | ▶️ [Play Now](#) / [Quick Draw Build](#) |
-| [줄다리기](#) | 1 | ▶️ [Play Now](#) / [Tug Of War Build](#) |
-| [두더지 때리기](#) | 1 | ▶️ [Play Now](#) / [Whack A Mole Build](#) |
-| [틱택토](#) | 1 | ▶️ [Play Now](#) / [Tic Tac Toe Build](#) |
-| [사이먼](#) | 1 | ▶️ [Play Now](#) / [Simon Build](#) |
-| [롤앤무브](#) | 1 | ▶️ [Play Now](#) / [Roll And Move Build](#) |
-| [비프 패드](#) | 1 | 🔈 [Beep Pad Build](#) <br> ⚠️ *Windows OS에서만 지원됩니다* |
-| [그리다](#) | 1 | ▶️ [Play Now](#) / [Draw Build](#) |
-| [하노이 탑](#) | 1 | ▶️ [Play Now](#) / [Tower Of Hanoi Build](#) |
-| [식자 과장](#) | 1 | ▶️ [Play Now](#) / [Clicker Build](#) |
+| [아직 만드는 중](링크넣기) | 0 | ▶️ [Play Now](#) / [Guess A Number Build](#링크넣기) |
+
 
 ---
 
@@ -48,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 - `C#`
 - `.NET 8.0`
 - `콘솔 앱 기반`
-- MIT License
+
 
 ---
 
